@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Monitoring</string>
+    <string name="title">Комплексная система мониторинга здоровья</string>
+    <string name="author">автор: Кальсин Сергей</string>
+    <string name="userName">Имя</string>
+    <string name="age">Возраст</string>
+    <string name="topPressure">Верхнее давление</string>
+    <string name="lowerPressure">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="froze">Дата замера</string>
+    <string name="weight">Вес</string>
+    <string name="steps">Количество шагов</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_return">Вернуться</string>
+    <string name="btn_pressure">Покзатели давления</string>
+    <string name="btn_health">Показатели здоровья</string>
+    <string name="error_name">Не указано имя</string>
+    <string name="error_age">Не указан возраст</string>
+    <string name="error_age_nub">Неверно указан возраст</string>
+    <string name="error_all">Неверно указаны данные</string>
+</resources>
